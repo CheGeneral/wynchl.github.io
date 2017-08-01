@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-01T09:02:57.000Z</updated>
+  <updated>2017-08-01T09:29:32.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>铲屎官的日常</title>
+    <link href="http://yoursite.com/2017/08/01/%E9%93%B2%E5%B1%8E%E5%AE%98%E7%9A%84%E6%97%A5%E5%B8%B8/"/>
+    <id>http://yoursite.com/2017/08/01/铲屎官的日常/</id>
+    <published>2017-08-01T09:21:50.000Z</published>
+    <updated>2017-08-01T09:29:32.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>贝尔作为我们生活的意外收获，这一个月给了我们很多欢笑，增添了很多乐趣，也给我们，增加了很多麻烦。</p>
+<p>希望他以后越来越好。。。。</p>
+<p>%<a href="./videos/IMG_9811.MP4">铲屎官</a></p>
+<p>%<a href="./videos/IMG_9823.MP4">铲屎官2</a></p>
+<p>%<a href="./videos/IMG_9827.MP4">铲屎官3</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      贝尔到家不满一个月的时候的视频。
+    
+    </summary>
+    
+      <category term="贝尔" scheme="http://yoursite.com/categories/%E8%B4%9D%E5%B0%94/"/>
+    
+    
+      <category term="视频" scheme="http://yoursite.com/tags/%E8%A7%86%E9%A2%91/"/>
+    
+  </entry>
   
   <entry>
     <title>开篇博客</title>
