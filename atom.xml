@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-01T07:49:25.000Z</updated>
+  <updated>2017-08-01T08:27:48.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,11 +16,40 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>开篇博客</title>
+    <link href="http://yoursite.com/2017/08/01/%E5%BC%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://yoursite.com/2017/08/01/开篇博客/</id>
+    <published>2017-08-01T08:06:48.000Z</published>
+    <updated>2017-08-01T08:27:48.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>话不多说，给大家直接上我们的婚纱照</p>
+<p><img src="/2017/08/01/开篇博客/AL3A6555%E7%B2%BE%E4%BF%AEOK.jpg" alt="2017-06-06 上海" title="AL3A6555精修OK.jpg"></p>
+<p>这是我第一次在博客来分享我们生活的点滴，不知道为什么，一路走来，我越来越不屑于在朋友圈进行分享，让大家看到我的生活，也可能是生活有太多的不如意不愿让别人看到。在朋友的推荐下，我找到了这里。在这里我描述我们的生活，讲述我们的故事，我只希望我们的故事能够一直进行下去。</p>
+<p><img src="/2017/08/01/开篇博客/AL3A6372%E7%B2%BE%E4%BF%AEOK.jpg" alt="2017-06-06 上海" title="AL3A6372精修OK.jpg"></p>
+<p>这个照片是我跟我媳妇最喜欢的照片，有没有大牌的感觉，😆<br><img src="/2017/08/01/开篇博客/AL3A6235%E7%B2%BE%E4%BF%AEOK.jpg" alt="2017-06-06 上海" title="AL3A6235精修OK.jpg"></p>
+<p><img src="/2017/08/01/开篇博客/AL3A6214%E7%B2%BE%E4%BF%AEOK.jpg" alt="2017-06-06 上海" title="AL3A6214精修OK.jpg"></p>
+<p><img src="/2017/08/01/开篇博客/AL3A6150%E7%B2%BE%E4%BF%AEOK.jpg" alt="2017-06-06 上海" title="AL3A6150精修OK.jpg"></p>
+]]></content>
+    
+    <summary type="html">
+    
+      首次发声。
+    
+    </summary>
+    
+      <category term="生活" scheme="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="照片" scheme="http://yoursite.com/tags/%E7%85%A7%E7%89%87/"/>
+    
+  </entry>
+  
+  <entry>
     <title>图片轰炸</title>
     <link href="http://yoursite.com/2017/08/01/%E5%9B%BE%E7%89%87%E8%BD%B0%E7%82%B8/"/>
     <id>http://yoursite.com/2017/08/01/图片轰炸/</id>
     <published>2017-08-01T07:50:43.000Z</published>
-    <updated>2017-08-01T07:49:25.000Z</updated>
+    <updated>2017-08-01T08:09:31.000Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/2017/08/01/图片轰炸/AL3A4948%E7%B2%BE%E4%BF%AEOK.jpg" alt="2017-06-06 上海" title="AL3A4948精修OK.jpg"></p>
 <p><img src="/2017/08/01/图片轰炸/AL3A5735%E7%B2%BE%E4%BF%AEOK.jpg" alt="2017-06-06 上海" title="AL3A5735精修OK.jpg"></p>
